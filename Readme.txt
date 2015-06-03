@@ -15,7 +15,7 @@ Wordpress Echo Sign plugin to integrate Adobe Echo Sign features to wordpress.
 
 == Description ==
 
-Wordpress Echo Sign plugin is a simple integration of Adobe echo sign features to your wordpress. You can add e-signatures to your existing business processes. 
+Wordpress Echo Sign plugin is a simple integration of Adobe echo sign features to your wordpress. Get complete guide on [Adobe EchoSign WordPress plugin][(ttps://www.smackcoders.com/blog/adobe-echosign-wordpress.html) here.
 
 - Plugin used to send PDF to users to get their digital signature or details from user/receiver
 - User has to create PDF using this link (https://www.echosign.adobe.com/en/home.html)
@@ -23,46 +23,15 @@ Wordpress Echo Sign plugin is a simple integration of Adobe echo sign features t
 - Users can see the status of the Document (Sent or Seen or Signed etc)
 
 What Echo Sign plugin can do?
-In plugin settings provide EchoSign API key and click save.
-New templates module allows to design your template.
-Alternately user can upload template with Template name & Document name.
-In list view access all available templates which already uploaded to WordPress.
-Also ability to access the list of documents sent to the recipients.
+
+Read more here for complete info about [Adobe EchoSign WordPress plugin][(ttps://www.smackcoders.com/blog/adobe-echosign-wordpress.html) instruction and tutorial
+
 	
 Let us know your feedback, feature suggestion etc., here - 
 
 == Installation ==
 
-I. For simple general way to install
-
-* Download the plugin (.zip file) on the right side above menu
-* Click the Red Download Button ( Download Version X.X.X)
-* Login to your Wordpress Admin (e.g. yourdomain.com/wp-admin/)
-* Go to Plugins >> Add New
-* Select the tab "Upload"
-* Browse and Upload the downloaded zip file
-* Activate the plugin after install
-* You can see a new menu Wordpress Echo Sign in your Admin now
-
-II. For familiar FTP users
-
-* Download the plugin (.zip file) on the right side above menu
-* Click the Red Download Button ( Download Version X.X.X)
-* Extract the plugin zip
-* Upload plugin zip to /wp-content/plugins/ 
-* Go to Plugins >> Installed Plugins >> Inactive 	
-* Click Activate to activate the plugin
-* You can see a new menu Wordpress Echo Sign in your Admin now
-
-III. Straight from Wordpress Admin
-
-* Login to your Wordpress Admin (e.g. yourdomain.com/wp-admin/)
-* Go to Plugins >> Add New
-* Search for Wordpress Echo Sign
-* Click Install Now to install
-* Activate the plugin after install
-* You can see a new menu Wordpress Echo Sign in your Admin now	
-
+Read more for [Adobe EchoSign WordPress plugin][(ttps://www.smackcoders.com/blog/adobe-echosign-wordpress.html) installation instructions and tutorial
 
 == Screenshots ==
 1. Wordpress Echo Sign API Key in Settings
