@@ -22,25 +22,25 @@ Echo Sign plugin is a simple integration of Adobe e signature Echo Sign features
 - Upload created Document to Plugin. Then User can send mail to any users to get sign or details
 - Users can see the status of the Document (Sent or Seen or Signed etc)
 
-Read more here for complete info about [Adobe Echo Sign WordPress plugin][(https://www.smackcoders.com/blog/adobe-echosign-wordpress.html) instruction and tutorial
-What Echo Sign plugin can do?
-Simple steps to use Adobe EchoSign WordPress plugin
-To Get Adobe EchoSign API key
-How to obtain Adobe EchoSign developer API key
-How to install the EchoSign WordPress Plugin
-More links and references
+Read more here for complete info about [Adobe Echo Sign WordPress plugin](https://www.smackcoders.com/blog/adobe-echosign-wordpress.html) instruction and tutorial
+* What Echo Sign plugin can do?
+* Simple steps to use Adobe EchoSign WordPress plugin
+* To Get Adobe EchoSign API key
+* How to obtain Adobe EchoSign developer API key
+* How to install the EchoSign WordPress Plugin
+* More links and references
 	
 Let us know your feedback, feature suggestion etc., here - 
 
 == Installation ==
 
-Read more for [Adobe Echo Sign WordPress plugin][(https://www.smackcoders.com/blog/adobe-echosign-wordpress.html) installation instructions and tutorial
-How to install the EchoSign WordPress Plugin
-What Echo Sign plugin can do?
-Simple steps to use Adobe EchoSign WordPress plugin
-To Get Adobe EchoSign API key
-How to obtain Adobe EchoSign developer API key
-More links and references
+Read more for [Adobe Echo Sign WordPress plugin](https://www.smackcoders.com/blog/adobe-echosign-wordpress.html) installation instructions and tutorial
+* How to install the EchoSign WordPress Plugin
+* What Echo Sign plugin can do?
+* Simple steps to use Adobe EchoSign WordPress plugin
+* To Get Adobe EchoSign API key
+* How to obtain Adobe EchoSign developer API key
+* More links and references
 
 == Screenshots ==
 1. Wordpress Echo Sign API Key in Settings
@@ -50,14 +50,14 @@ More links and references
 
 == Frequently Asked Questions ==
 
-Read more for [Adobe Echo Sign WordPress plugin][(https://www.smackcoders.com/blog/adobe-echosign-wordpress.html) installation instructions and tutorial
-How to Configure the plugin after install?
-How to install the EchoSign WordPress Plugin
-What Echo Sign plugin can do?
-Simple steps to use Adobe EchoSign WordPress plugin
-To Get Adobe EchoSign API key
-How to obtain Adobe EchoSign developer API key
-More links and references
+Read more for [Adobe Echo Sign WordPress plugin](https://www.smackcoders.com/blog/adobe-echosign-wordpress.html) installation instructions and tutorial
+* How to Configure the plugin after install?
+* How to install the EchoSign WordPress Plugin
+* What Echo Sign plugin can do?
+* Simple steps to use Adobe EchoSign WordPress plugin
+* To Get Adobe EchoSign API key
+* How to obtain Adobe EchoSign developer API key
+* More links and references
 
 == Changelog ==
 = 1.0.0 =	
