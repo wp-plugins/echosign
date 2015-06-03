@@ -23,6 +23,7 @@ Echo Sign plugin is a simple integration of Adobe e signature Echo Sign features
 - Users can see the status of the Document (Sent or Seen or Signed etc)
 
 Read more here for complete info about [Adobe Echo Sign WordPress plugin](https://www.smackcoders.com/blog/adobe-echosign-wordpress.html) instruction and tutorial
+
 * What Echo Sign plugin can do?
 * Simple steps to use Adobe EchoSign WordPress plugin
 * To Get Adobe EchoSign API key
@@ -35,6 +36,7 @@ Let us know your feedback, feature suggestion etc., here -
 == Installation ==
 
 Read more for [Adobe Echo Sign WordPress plugin](https://www.smackcoders.com/blog/adobe-echosign-wordpress.html) installation instructions and tutorial
+
 * How to install the EchoSign WordPress Plugin
 * What Echo Sign plugin can do?
 * Simple steps to use Adobe EchoSign WordPress plugin
@@ -51,6 +53,7 @@ Read more for [Adobe Echo Sign WordPress plugin](https://www.smackcoders.com/blo
 == Frequently Asked Questions ==
 
 Read more for [Adobe Echo Sign WordPress plugin](https://www.smackcoders.com/blog/adobe-echosign-wordpress.html) installation instructions and tutorial
+
 * How to Configure the plugin after install?
 * How to install the EchoSign WordPress Plugin
 * What Echo Sign plugin can do?
